@@ -1,0 +1,12 @@
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\bin\Debug\KTOHO4ETSTATMILLIONEROM.exe.config
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\bin\Debug\KTOHO4ETSTATMILLIONEROM.exe
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\bin\Debug\KTOHO4ETSTATMILLIONEROM.pdb
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.csproj.AssemblyReference.cache
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.csproj.SuggestedBindingRedirects.cache
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.MainWinodw.resources
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.Properties.Resources.resources
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.Stats.resources
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.csproj.GenerateResource.cache
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.csproj.CoreCompileInputs.cache
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.exe
+C:\Users\alhar\Source\Repos\KTOHO4ETSTATMILLIONEROM\obj\Debug\KTOHO4ETSTATMILLIONEROM.pdb
